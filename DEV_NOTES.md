@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Consolidated duplicate helper functions
 - Updated license year
 - Pinned dependency versions for reproducibility
+
+## 2026-03-22
+- Cleaned up old debug logs
+- Reviewed codebase, identified areas for improvement
