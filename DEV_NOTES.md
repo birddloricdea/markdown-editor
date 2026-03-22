@@ -23,3 +23,8 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Tidied up project structure
 - Verified API endpoint response schema
+
+## 2026-03-23
+- Fixed minor edge case in input handling
+- Added type hints to helper functions
+- Wrote notes on upcoming feature design
